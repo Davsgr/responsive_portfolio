@@ -1,6 +1,6 @@
 # responsive_portfolio
 
-Tutorial made by Traversy Media explain how to do site awseome responsive website.
+Tutorial made by Traversy Media explain how to do this awseome responsive website.
 
 ##Technologie 
 
